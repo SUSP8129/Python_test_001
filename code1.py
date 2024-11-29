@@ -1,0 +1,1 @@
+print ("Welcome to Python test 001.")
